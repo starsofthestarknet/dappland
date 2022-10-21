@@ -1,0 +1,47 @@
+{
+  "name": "Stars of The Starknet",
+  "description": "As SOTS Project, our aim is to create a real nft community in the Starknet ecosystem. Attract, Correlate, Create and Build STARKNET NFT COMMUNITY Get ready to be a part of this community with art designed NFTs and real utility.",
+  "short_description": "Uniquely NFT Designs",
+  "tags": ["NFTs"],
+  "contracts": [],
+  "goerliContracts": [],
+  "audits": [],
+  "dotw": false,
+  "links": {
+    "website": "https://starsofthestarknet.xyz",
+    "careers": "mailto:starsofthestarknet@gmail.com",
+    "twitter": "https://twitter.com/starsofthestark",
+    "telegram": "",
+    "discord": "",
+    "github": "",
+    "youtube": "https://www.youtube.com/channel/UCfhZH8aYQ6VHzBJWE1L_ffg/about",
+    "medium": "",
+    "mirror": ""
+  },
+  "twitterName": "starsofthestark",
+  "teamInfo": {
+    "founded": "2022-09-24T00:00:00.000Z",
+    "anonymous": false
+  },
+  "tokens": [],
+  "media": {
+    "logoUrl": "/dapps/starsofthestarknet/logo-sots.jpg",
+    "bannerUrl": "/dapps/starsofthestarknet/banner-sots-1920.jpg",
+    "previewUrl": "/dapps/starsofthestarknet/banner-sots3.jpg",
+    "videoUrl": "https://starsofthestarknet.xyz/uploads/starknet-video.mp4",
+    "gallery": [
+      {
+        "url": "https://starsofthestarknet.xyz/uploads/preview-sots-700px.jpg",
+        "description": "Gallery 1"
+      },
+      {
+        "url": "https://starsofthestarknet.xyz/uploads/preview-sots-700px-2.jpg",
+        "description": "Gallery 2"
+      },
+      {
+        "url": "https://starsofthestarknet.xyz/uploads/preview-sots-700px-3.jpg",
+        "description": "Gallery 3"
+      }
+    ]
+  }
+}
